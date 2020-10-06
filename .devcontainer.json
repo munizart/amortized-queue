@@ -1,8 +1,8 @@
 {
-    "name": "Haskell (GHC 8.6.5)",
-    "dockerFile": "Dockerfile",
-    "runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined" ],
-    "extensions": [
-        "alanz.vscode-hie-server"
-    ]
+	"name": "Haskell Sample",
+	"dockerFile": "Dockerfile",
+	"appPort": 9000,
+	"extensions": [
+		"alanz.vscode-hie-server"
+	]
 }
