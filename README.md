@@ -1,2 +1,2 @@
 # amortized-queue
-The same, pure, immatable, contant-time (amortized) queue implemetation over several languages.
+The same, pure, immutable, contant-time (amortized) queue implemetation over several languages.
